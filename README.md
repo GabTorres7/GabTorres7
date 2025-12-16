@@ -1,7 +1,7 @@
-## 👨‍💻 Gabriel Torres
+## 👨‍💻 Eu me chamo Gabriel Torres!
 
 Sou estudante de **Sistemas de Informação** na **Universidade Tiradentes (UNIT)**, atualmente no **5º período**.  
-Tenho foco em **desenvolvimento Front-end**, com aprofundamento em **Java**, além de experiência prática com **React**, **HTML**, **CSS** e **JavaScript**.
+Tenho foco em **desenvolvimento Back-end**, com aprofundamento em **Java**, além de experiência prática com **React**, **HTML**, **CSS** e **JavaScript**.
 
 Busco oportunidades para aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e contribuir com soluções eficientes e bem estruturadas.
 
